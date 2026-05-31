@@ -1,5 +1,7 @@
 Kaitlyn George | Cybersecurity Portfolio
 
+Hands-on experience with Wireshark, Linux, and security labs
+
 Entry-level cybersecurity and technology professional focused on:
 
 * SOC operations
