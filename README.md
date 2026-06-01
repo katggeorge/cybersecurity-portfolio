@@ -4,6 +4,14 @@ Aspiring Cybersecurity Analyst with hands-on experience in network traffic analy
 
 Currently building practical skills through Wireshark packet analysis, Linux security exercises, Python automation projects, and security-focused documentation.
 
+## Purpose
+
+This portfolio documents my hands-on cybersecurity learning journey through practical labs, network analysis, Linux exercises, and security-focused projects.
+
+My goal is to develop the technical skills required for an entry-level Security Operations Center (SOC) or Cybersecurity Analyst role.
+
+---
+
 ## Areas of Focus
 
 - Security Operations Center (SOC) Concepts
@@ -13,75 +21,110 @@ Currently building practical skills through Wireshark packet analysis, Linux sec
 - Incident Response Fundamentals
 - SIEM & Log Analysis
 
-⸻
+---
 
-Skills
+## Skills
 
-Cybersecurity
+### Cybersecurity
 
-* Security fundamentals
-* Log analysis
-* Incident response concepts
-* IOC identification
-* Risk assessment
-* Vulnerability fundamentals
+- Security Fundamentals
+- Log Analysis
+- Incident Response Concepts
+- IOC Identification
+- Risk Assessment
+- Vulnerability Fundamentals
 
-Tools & Technologies
+### Tools & Technologies
 
-* Linux CLI
-* Wireshark
-* SQL
-* Python
-* GitHub
-* Google Workspace
-* Microsoft Office
+- Linux CLI
+- Wireshark
+- SQL
+- Python
+- GitHub
+- Google Workspace
+- Microsoft Office
 
-⸻
+---
 
-Current Projects
+## Current Projects
 
-Wireshark Home Network Analysis
+### Wireshark Home Network Analysis
 
-Investigating network traffic using Wireshark to identify:
+Status: Completed ✅
 
-* Protocol hierarchy
-* Encrypted vs unencrypted traffic
-* IPv4 and IPv6 traffic
-* UDP and TCP usage
-* Potential anomalies
+Repository:
+https://github.com/katggeorge/wireshark-home-network-analysis
 
-Linux Security Labs
+Analyzed network traffic to identify protocols, communication patterns, and potential anomalies.
+
+Investigated:
+
+- Protocol hierarchy
+- Encrypted vs unencrypted traffic
+- IPv4 and IPv6 traffic
+- UDP and TCP usage
+- Potential anomalies
+
+---
+
+### Cybersecurity Labs
+
+Status: In Progress 🚧
+
+Repository:
+https://github.com/katggeorge/cybersecurity-labs
+
+Collection of Linux, networking, and security-focused hands-on exercises.
 
 Practicing:
 
-* File permissions
-* User and group management
-* Log inspection
-* Process monitoring
-* System navigation
+- File permissions
+- User and group management
+- Log inspection
+- Process monitoring
+- System navigation
 
-Python Security Scripts
+---
+
+### Python Security Scripts
+
+Status: Planned 📅
 
 Building beginner automation tools including:
 
-* Log parsers
-* Hash checkers
-* IOC extraction scripts
+- Log parsers
+- Hash checkers
+- IOC extraction scripts
 
-⸻
+---
 
-Certifications
+## Certifications
 
-* Google Cybersecurity Certificate (Coursera)
+- Google Cybersecurity Certificate (Coursera)
 
-⸻
+---
 
-Goals
+## Currently Learning
+
+- Security monitoring workflows
+- Linux administration
+- Log analysis techniques
+- Python automation
+- Network traffic investigation
+- Security documentation
+
+---
+
+## Goals
 
 Currently developing hands-on cybersecurity skills through:
 
-* Practical labs
-* Traffic analysis
-* Linux practice
-* Security investigations
-* GitHub portfolio projects
+- Practical labs
+- Traffic analysis
+- Linux practice
+- Security investigations
+- GitHub portfolio projects
+
+Long-term goal:
+
+- Obtain an entry-level Cybersecurity Analyst or SOC Analyst position.
