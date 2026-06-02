@@ -1,8 +1,7 @@
 # Kaitlyn George | Cybersecurity Portfolio
 
-Aspiring Cybersecurity Analyst with hands-on experience in network traffic analysis, Linux administration, security investigations, and cybersecurity labs.
-
-Currently building practical skills through Wireshark packet analysis, Linux security exercises, Python automation projects, and security-focused documentation.
+Cybersecurity portfolio focused on SOC-style investigations, Windows event log analysis, and phishing detection.
+These projects simulate real-world security incidents and demonstrate how I analyze, document, and interpret security data.
 
 ## Purpose
 
